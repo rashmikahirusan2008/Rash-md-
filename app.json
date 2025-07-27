@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
+  "name": "Rash-MD",
   "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "logo": "https://raw.githubusercontent.com/rashmikahirusan2008/Rash-md-/refs/heads/main/imajas/IMG-20250727-WA0017.jpg",
+  "keywords": ["Rash-MD"],
   "success_url": "/",
 
   "env": {
