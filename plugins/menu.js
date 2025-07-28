@@ -3,12 +3,12 @@ const { cmd, commands } = require("../command");
 cmd(
   {
     pattern: "menu",
-    desc: "Displays all available commands",
+    desc: "Rashmd available commands",
     category: "main",
     filename: __filename,
   },
   async (
-    danuwa,
+    Rash,
     mek,
     m,
     {
